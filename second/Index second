@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="CSS Second">
+		<title>second</title>
+	</head>
+	<body>
+    	<div class="left"></div>
+    	<div class="center"></div>
+    	<div class="right">
+        	<div class="spacer"></div>
+        	<div class="image"><span>Image Placeholder</span></div>
+    	</div>
+	</body>
+</html>

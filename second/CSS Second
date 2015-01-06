@@ -1,0 +1,38 @@
+body {
+	height: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+.left {
+	background-color: hsl(212,72%,59%);
+	height: 100%;
+	width: 33.33%;
+    float: left;
+}
+.right {
+	background-color: hsl(90,69%,72%);
+	height: 100%;
+	width: 33.33%;
+    float: right;
+}
+span {
+   line-height: 100px;
+}
+.image {
+    height: 30%;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    vertical-align: center;
+    display: inline-block;
+}
+.spacer {
+    height: 70%;
+}
+html {
+    height: 100%;
+    width: 100%;
+    background-color: hsl(167,72%,60%);
+    padding: 0px;
+}
