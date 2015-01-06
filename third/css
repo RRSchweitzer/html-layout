@@ -1,0 +1,55 @@
+html {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	height: 100%;
+}
+
+
+.header {
+	background-color: hsl(0,0%,85%);
+	height: 10%;
+	width: 100%;
+	float: left;
+}
+
+.box {
+	background-color: hsl(212,72%,59%);
+	height: 45px;
+	width: 45px;
+	margin: 20px;
+}
+
+.words {
+	background-color: hsl(0,0%,100%);
+	color: black;
+	height: auto;
+}
+.colors {
+	height: 60%;
+	clear: both;
+}
+
+.colors div {
+	height: 15%;
+	display: block;
+}
+
+.blue {
+	background-color: hsl(212,72%,59%);
+}
+
+.aqua {
+	background-color: hsl(167,72%,60%);
+}
+
+.olive {
+	background-color: hsl(90,69%,72%);
+}
+
+.yellow {
+	background-color: hsl(55,94%,54%);
+
+}
